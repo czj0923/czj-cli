@@ -1,6 +1,6 @@
 {
   "name": "@caozhijie/czj-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A tool for quickly creating project development templates",
   "main": "./bin/cli.js",
   "bin": {
@@ -18,7 +18,7 @@
     "url": "https://github.com/czj0923"
   },
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "chalk": "^4.1.2",
     "commander": "^14.0.0",
     "download-git-repo": "^3.0.2",
